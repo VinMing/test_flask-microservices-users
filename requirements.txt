@@ -1,0 +1,14 @@
+click==7.1.2
+Flask==1.1.2
+Flask-Script==2.0.6
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
+flask_sqlalchemy
+PyMySQL
+Flask-Testing
+Marshmallow
+gunicorn
+coverage
+flake8
